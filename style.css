@@ -3,7 +3,7 @@ body {
     overflow-y: hidden;
     background-image: url("img/galaxia.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
+    
 }
 
 #iss {
